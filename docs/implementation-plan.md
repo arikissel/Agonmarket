@@ -1,6 +1,6 @@
 # Agonmarket — Implementierungsplan v1
 
-> Basiert auf der freigegebenen Spec vom 12.08.2026.
+> Basiert auf der freigegebenen [Spec](./spec.md) vom 12.08.2026.
 > **v1-Ziel:** Eine vollständige Runde, gespielt von 8–10 echten Freunden über Expo Go.
 > **Kontext:** Solo, nebenberuflich. Sprints sind als „Abende + ein Wochenende" gedacht,
 > nicht als Kalenderwochen mit Vollzeit.
